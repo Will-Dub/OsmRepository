@@ -1,4 +1,5 @@
 {
+    "Enabled" : true,
     "UrlTemplate" : "https://maps.wikimedia.org/osm-intl/%z/%x/%y.png",
     "ImageFormat" : "png",
     "QImageFormat" : "Indexed8",

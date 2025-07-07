@@ -1,4 +1,5 @@
 {
+    "Enabled" : true,
     "UrlTemplate" : "http://a.tile.thunderforest.com/cycle/%z/%x/%y@2x.png?apikey=00fe4dd6a0dc40a6ace16ae7769c94f7",
     "ImageFormat" : "png",
     "QImageFormat" : "Indexed8",

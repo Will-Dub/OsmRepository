@@ -1,0 +1,113 @@
+{
+  "providers": {
+    "OpenStreetMap": {
+      "UrlTemplate": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+      "Format": "png",
+      "QImageFormat": "PNG",
+      "MapCopyright": "© OpenStreetMap contributors",
+      "DataCopyright": "© OpenStreetMap contributors",
+      "MinimumZoomLevel": 0,
+      "MaximumZoomLevel": 19
+    },
+    "Thunderforest.OpenCycleMap": {
+      "UrlTemplate": "https://tile.thunderforest.com/cycle/{z}/{x}/{y}.png?apikey=00fe4dd6a0dc40a6ace16ae7769c94f7",
+      "Format": "png",
+      "QImageFormat": "PNG",
+      "MapCopyright": "© Thunderforest",
+      "DataCopyright": "© Thunderforest © OpenStreetMap contributors",
+      "MinimumZoomLevel": 0,
+      "MaximumZoomLevel": 18,
+      "ApiKey": "00fe4dd6a0dc40a6ace16ae7769c94f7"
+    },
+    "Thunderforest.Transport": {
+      "UrlTemplate": "https://tile.thunderforest.com/transport/{z}/{x}/{y}.png?apikey=00fe4dd6a0dc40a6ace16ae7769c94f7",
+      "Format": "png",
+      "QImageFormat": "PNG",
+      "MapCopyright": "© Thunderforest",
+      "DataCopyright": "© Thunderforest © OpenStreetMap contributors",
+      "MinimumZoomLevel": 0,
+      "MaximumZoomLevel": 18,
+      "ApiKey": "00fe4dd6a0dc40a6ace16ae7769c94f7"
+    },
+    "Thunderforest.Landscape": {
+      "UrlTemplate": "https://tile.thunderforest.com/landscape/{z}/{x}/{y}.png?apikey=00fe4dd6a0dc40a6ace16ae7769c94f7",
+      "Format": "png",
+      "QImageFormat": "PNG",
+      "MapCopyright": "© Thunderforest",
+      "DataCopyright": "© Thunderforest © OpenStreetMap contributors",
+      "MinimumZoomLevel": 0,
+      "MaximumZoomLevel": 18,
+      "ApiKey": "00fe4dd6a0dc40a6ace16ae7769c94f7"
+    },
+    "Thunderforest.Outdoors": {
+      "UrlTemplate": "https://tile.thunderforest.com/outdoors/{z}/{x}/{y}.png?apikey=00fe4dd6a0dc40a6ace16ae7769c94f7",
+      "Format": "png",
+      "QImageFormat": "PNG",
+      "MapCopyright": "© Thunderforest",
+      "DataCopyright": "© Thunderforest © OpenStreetMap contributors",
+      "MinimumZoomLevel": 0,
+      "MaximumZoomLevel": 18,
+      "ApiKey": "00fe4dd6a0dc40a6ace16ae7769c94f7"
+    },
+    "Thunderforest.TransportDark": {
+      "UrlTemplate": "https://tile.thunderforest.com/transport-dark/{z}/{x}/{y}.png?apikey=00fe4dd6a0dc40a6ace16ae7769c94f7",
+      "Format": "png",
+      "QImageFormat": "PNG",
+      "MapCopyright": "© Thunderforest",
+      "DataCopyright": "© Thunderforest © OpenStreetMap contributors",
+      "MinimumZoomLevel": 0,
+      "MaximumZoomLevel": 18,
+      "ApiKey": "00fe4dd6a0dc40a6ace16ae7769c94f7"
+    },
+    "Thunderforest.SpinalMap": {
+      "UrlTemplate": "https://tile.thunderforest.com/spinal-map/{z}/{x}/{y}.png?apikey=00fe4dd6a0dc40a6ace16ae7769c94f7",
+      "Format": "png",
+      "QImageFormat": "PNG",
+      "MapCopyright": "© Thunderforest",
+      "DataCopyright": "© Thunderforest © OpenStreetMap contributors",
+      "MinimumZoomLevel": 0,
+      "MaximumZoomLevel": 18,
+      "ApiKey": "00fe4dd6a0dc40a6ace16ae7769c94f7"
+    },
+    "Thunderforest.Pioneer": {
+      "UrlTemplate": "https://tile.thunderforest.com/pioneer/{z}/{x}/{y}.png?apikey=00fe4dd6a0dc40a6ace16ae7769c94f7",
+      "Format": "png",
+      "QImageFormat": "PNG",
+      "MapCopyright": "© Thunderforest",
+      "DataCopyright": "© Thunderforest © OpenStreetMap contributors",
+      "MinimumZoomLevel": 0,
+      "MaximumZoomLevel": 18,
+      "ApiKey": "00fe4dd6a0dc40a6ace16ae7769c94f7"
+    },
+    "Thunderforest.MobileAtlas": {
+      "UrlTemplate": "https://tile.thunderforest.com/mobile-atlas/{z}/{x}/{y}.png?apikey=00fe4dd6a0dc40a6ace16ae7769c94f7",
+      "Format": "png",
+      "QImageFormat": "PNG",
+      "MapCopyright": "© Thunderforest",
+      "DataCopyright": "© Thunderforest © OpenStreetMap contributors",
+      "MinimumZoomLevel": 0,
+      "MaximumZoomLevel": 18,
+      "ApiKey": "00fe4dd6a0dc40a6ace16ae7769c94f7"
+    },
+    "Thunderforest.Neighbourhood": {
+      "UrlTemplate": "https://tile.thunderforest.com/neighbourhood/{z}/{x}/{y}.png?apikey=00fe4dd6a0dc40a6ace16ae7769c94f7",
+      "Format": "png",
+      "QImageFormat": "PNG",
+      "MapCopyright": "© Thunderforest",
+      "DataCopyright": "© Thunderforest © OpenStreetMap contributors",
+      "MinimumZoomLevel": 0,
+      "MaximumZoomLevel": 18,
+      "ApiKey": "00fe4dd6a0dc40a6ace16ae7769c94f7"
+    },
+    "Thunderforest.Atlas": {
+      "UrlTemplate": "https://tile.thunderforest.com/atlas/{z}/{x}/{y}.png?apikey=00fe4dd6a0dc40a6ace16ae7769c94f7",
+      "Format": "png",
+      "QImageFormat": "PNG",
+      "MapCopyright": "© Thunderforest",
+      "DataCopyright": "© Thunderforest © OpenStreetMap contributors",
+      "MinimumZoomLevel": 0,
+      "MaximumZoomLevel": 18,
+      "ApiKey": "00fe4dd6a0dc40a6ace16ae7769c94f7"
+    }
+  }
+}
